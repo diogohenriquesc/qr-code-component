@@ -1,2 +1,2 @@
 # qr-code-component
-Challenge by FrontEn Mentor
+Challenge by FrontEnd Mentor
